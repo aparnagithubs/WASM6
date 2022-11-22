@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-21T21:09:41 IST" name="Default suite" finished-at="2022-11-21T21:09:42 IST" duration-ms="119">
+  <suite started-at="2022-11-22T12:25:41 IST" name="Default suite" finished-at="2022-11-22T12:25:41 IST" duration-ms="131">
     <groups>
     </groups>
-    <test started-at="2022-11-21T21:09:41 IST" name="Default test" finished-at="2022-11-21T21:09:42 IST" duration-ms="119">
-      <class name="ThirdTest">
-        <test-method signature="thirdTest()[pri:0, instance:ThirdTest@619713e5]" started-at="2022-11-21T21:09:42 IST" name="thirdTest" finished-at="2022-11-21T21:09:42 IST" duration-ms="25" status="PASS">
+    <test started-at="2022-11-22T12:25:41 IST" name="Default test" finished-at="2022-11-22T12:25:41 IST" duration-ms="131">
+      <class name="TC1contacts">
+        <test-method signature="tc1contacts()[pri:0, instance:TC1contacts@619713e5]" started-at="2022-11-22T12:25:41 IST" name="tc1contacts" finished-at="2022-11-22T12:25:41 IST" duration-ms="25" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- thirdTest -->
-      </class> <!-- ThirdTest -->
+        </test-method> <!-- tc1contacts -->
+      </class> <!-- TC1contacts -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
