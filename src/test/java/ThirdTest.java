@@ -5,7 +5,6 @@ public class ThirdTest {
 	@Test
 	public void thirdTest()
 	{   
-		
 		System.out.println("third test aparna...");
 	}
 
